@@ -10,6 +10,16 @@ A curated list of awesome material on legged robot locomotion using reinforcemen
 
 3. Explore the latest on **robot parkour**, **whole-body controllers**, and **loco-manipulation**.
 
+## Table of Contents
+
+- [Survey and Reviews](#survey-and-reviews)
+- [Core Papers by ETH Robotics System Lab](#core-papers-by-eth-robotics-system-lab)
+- [Core Papers by KAIST](#core-papers-by-kaist)
+- [Quadruped Locomotion](#quadruped-locomotion)
+- [Quadruped Whole-Body Control](#quadruped-whole-body-control)
+- [Humanoid Locomotion / Whole-Body Control / Loco-Manipulation](#humanoid-locomotion--whole-body-control--loco-manipulation)
+- [Contributing](#contributing)
+
 ## Survey and Reviews
 
 + [Learning-based Legged Locomotion State of the Art and Future Perspectives](https://journals.sagepub.com/doi/abs/10.1177/02783649241312698). *IJRR*, 2025.
