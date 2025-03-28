@@ -1,4 +1,4 @@
-# Awesome-RL-for-Legged-Locomotion
+# Awesome RL for Legged Locomotion [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 A curated list of awesome material on legged robot locomotion using reinforcement learning (RL) and sim-to-real techniques. 
 
